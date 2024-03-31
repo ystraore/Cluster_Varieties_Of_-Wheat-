@@ -10,7 +10,6 @@
 5. [Results](#results)
 6. [Technologies Used](#technologies-used)
 7. [Tech Stack](#tech-stack)
-8. [How to Use](#how-to-use)
 
 
 ## Introduction
